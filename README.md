@@ -1,0 +1,1 @@
+# turkiye-for-instant-earthquake-lister
