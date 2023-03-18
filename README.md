@@ -27,11 +27,9 @@
 <!-- Proje Hakkında -->
 ## Proje Hakkında
 
-Basit bir Türkiye için deprem listeleyici.
-
 requests ve BeautifulSoup
 kütüphaneleri kullanilarak
- yapıldı.
+yapılan basit bir Türkiye için deprem listeleyici.
 
 ### Kullanılan Modüler ;
 * requests
