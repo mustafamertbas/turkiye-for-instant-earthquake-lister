@@ -11,7 +11,6 @@
   <h3 align="center">
    Python ile requests ve BeautifulSoup kütüphanelerini kullanarak Türkiye için anlık deprem bölgelerini listeleyen bir program yazdım.
     <br />
-    <h3 align="center">
     <a href="https://replit.com/@mustafamertbas/Turkiye-Anlik-Deprem-Listeleyici"><strong>Projeyi Online Dene »</strong></a>
     <br />
     <br />
