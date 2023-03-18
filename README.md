@@ -3,22 +3,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.hizliresim.com/70zu244.png" alt="Logo" width="80" height="80">
+    <img src="https://i.hizliresim.com/70zu244.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h1 align="center">Python ile Basit Hesap Makinesi</h1>
+  <h1 align="center">Python ile Anlık Deprem Listeleme</h1>
 
   <h3 align="center">
-   Bu projede python ve tkinter kütüphanesi kullanarak 2 işlem kapasiteli basit bir hesap makinesi yaptım.
+   Python ile requests ve BeautifulSoup kütüphanelerini kullanarak Türkiye için anlık deprem bölgelerini listeleyen bir program yazdım.
     <br />
-    <a href="https://replit.com/@mustafamertbas/Hesap-Makinesi#main.py"><strong>Projeyi Online Dene »</strong></a>
+    <a href="https://replit.com/@mustafamertbas/Turkiye-Anlik-Deprem-Listeleyici"><strong>Projeyi Online Dene »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mustafamertbas/simple-calculator/issues">Hata Bildir</a>
+    <a href="https://github.com/mustafamertbas/turkiye-for-instant-earthquake-lister/issues">Hata Bildir</a>
     ·
-    <a href="https://github.com/mustafamertbas/simple-calculator/security">Güvenlik</a>
+    <a href="https://github.com/mustafamertbas/turkiye-for-instant-earthquake-lister/security">Güvenlik</a>
     ·
-    <a href="https://github.com/mustafamertbas/simple-calculator/issues">Geri Bildirim</a>
+    <a href="https://github.com/mustafamertbas/turkiye-for-instant-earthquake-lister/issues">Geri Bildirim</a>
   </p>
 </div>
 
@@ -27,20 +27,30 @@
 <!-- Proje Hakkında -->
 ## Proje Hakkında
 
-Python ile tkinter kütüphanesini kullanarak 2 işlem kapasitesine sahip basit hesap makinesi yapımı.
+Basit bir Türkiye için deprem listeleyici.
 
+requests ve BeautifulSoup
+kütüphaneleri kullanilarak
+ yapıldı.
 
 ### Kullanılan Modüler ;
-* tkinter
+* requests
   ```sh
-  import tkinter *
+  pip install requests
+  ```
+
+* BeautifulSoup
+  ```sh
+  pip install BeautifulSoup
   ```
 
 
 
 
+
 ### Özellikler ;
-* 2 işlem kapasitesine sahip arttırılabilir.
+* www.koeri.boun.edu.tr sitesi üzerinden deprem APİ bilgiler çekilir. Ekrana 20 anlık deprem bilgisi yazılır.
+ 
 
 
 
@@ -52,7 +62,7 @@ Python ile tkinter kütüphanesini kullanarak 2 işlem kapasitesine sahip basit 
 Mustafa Mert Baş - [@mustafamret](https://instagram.com/mustafamret.dev) - mustafamertbas@programmer.net
 
 
-Proje Link: [https://github.com/mustafamertbas/simple-calculator](https://github.com/mustafamertbas/simple-calculator)
+Proje Link: [https://github.com/mustafamertbas/turkiye-for-instant-earthquake-lister/](https://github.com/mustafamertbas/turkiye-for-instant-earthquake-lister/)
 
 
 
